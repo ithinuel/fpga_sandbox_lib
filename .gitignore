@@ -1,0 +1,6 @@
+.idea
+.*.swp
+.*.swo
+.cache
+.pytest_cache
+**/__pycache__
